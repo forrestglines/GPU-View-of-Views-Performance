@@ -1,4 +1,4 @@
-#include "Kokkos_Core.hpp"
+#include <Kokkos_Core.hpp>
 
 #include <iostream>
 #include <vector>

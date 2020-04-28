@@ -1,0 +1,6 @@
+add_subdirectory(cuda_full_domain)
+add_subdirectory(cuda_zbuffer_pack)
+add_subdirectory(kokkos_full_domain)
+add_subdirectory(kokkos_zbuffer_pack)
+add_subdirectory(parthenon_full_domain)
+
